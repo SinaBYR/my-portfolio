@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.b8300a1a.chunk.css",
-    "main.js": "/static/js/main.7bc4bf8c.chunk.js",
-    "main.js.map": "/static/js/main.7bc4bf8c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.99d8df3a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.99d8df3a.js.map",
-    "static/js/2.3e6115b1.chunk.js": "/static/js/2.3e6115b1.chunk.js",
-    "static/js/2.3e6115b1.chunk.js.map": "/static/js/2.3e6115b1.chunk.js.map",
-    "static/js/3.c7b583a1.chunk.js": "/static/js/3.c7b583a1.chunk.js",
-    "static/js/3.c7b583a1.chunk.js.map": "/static/js/3.c7b583a1.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.b8300a1a.chunk.css.map": "/static/css/main.b8300a1a.chunk.css.map",
-    "static/js/2.3e6115b1.chunk.js.LICENSE.txt": "/static/js/2.3e6115b1.chunk.js.LICENSE.txt",
-    "static/media/Contact.module.css": "/static/media/alessio-soggetti-gdE-5Oui1Y0-unsplash.e7f70bc9.jpg"
+    "main.css": "/SinaBYR/sinabyr.github.io/static/css/main.79b84e67.chunk.css",
+    "main.js": "/SinaBYR/sinabyr.github.io/static/js/main.7bc4bf8c.chunk.js",
+    "main.js.map": "/SinaBYR/sinabyr.github.io/static/js/main.7bc4bf8c.chunk.js.map",
+    "runtime-main.js": "/SinaBYR/sinabyr.github.io/static/js/runtime-main.a708c8a1.js",
+    "runtime-main.js.map": "/SinaBYR/sinabyr.github.io/static/js/runtime-main.a708c8a1.js.map",
+    "static/js/2.3e6115b1.chunk.js": "/SinaBYR/sinabyr.github.io/static/js/2.3e6115b1.chunk.js",
+    "static/js/2.3e6115b1.chunk.js.map": "/SinaBYR/sinabyr.github.io/static/js/2.3e6115b1.chunk.js.map",
+    "static/js/3.c7b583a1.chunk.js": "/SinaBYR/sinabyr.github.io/static/js/3.c7b583a1.chunk.js",
+    "static/js/3.c7b583a1.chunk.js.map": "/SinaBYR/sinabyr.github.io/static/js/3.c7b583a1.chunk.js.map",
+    "index.html": "/SinaBYR/sinabyr.github.io/index.html",
+    "static/css/main.79b84e67.chunk.css.map": "/SinaBYR/sinabyr.github.io/static/css/main.79b84e67.chunk.css.map",
+    "static/js/2.3e6115b1.chunk.js.LICENSE.txt": "/SinaBYR/sinabyr.github.io/static/js/2.3e6115b1.chunk.js.LICENSE.txt",
+    "static/media/Contact.module.css": "/SinaBYR/sinabyr.github.io/static/media/alessio-soggetti-gdE-5Oui1Y0-unsplash.e7f70bc9.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.99d8df3a.js",
+    "static/js/runtime-main.a708c8a1.js",
     "static/js/2.3e6115b1.chunk.js",
-    "static/css/main.b8300a1a.chunk.css",
+    "static/css/main.79b84e67.chunk.css",
     "static/js/main.7bc4bf8c.chunk.js"
   ]
 }
